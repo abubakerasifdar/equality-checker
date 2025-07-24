@@ -7,35 +7,7 @@
             }
         })
  
- //1 
-    //1 
-     //1 
-     //1 
-   //1 
-   //1 
-//1 
-           //1 
-//1 
-              //1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-         //1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
-//1 
+
         function myFunction(){
             var result;
         var input1 = Number(document.getElementById("input1").value);
